@@ -1,0 +1,3 @@
+[submodule "FrameworkA"]
+	path = FrameworkA
+	url = https://github.com/maxtyx/FrameworkA
